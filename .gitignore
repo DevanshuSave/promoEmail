@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.db
+
+# Python virtual environment files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# Logs and output
+*.log
+*.out
+*.bak
+
+# Environment variables
+.env
+.env.*
+
+# Plot images and outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Compiled C extensions
+*.so
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Jupyter nbconvert output
+*.nbconvert.ipynb
+
+# Sensitive information files
+credentials.*
+token.*
